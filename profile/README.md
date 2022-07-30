@@ -17,3 +17,120 @@
 <img alt="nginx" src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" />
 </div>
+
+<table width="100%">
+    <tbody>
+        <tr>
+            <td valign="top" width="50%">
+                <h3>Shopware 6 Plugins 🚀</h3>
+                <p>
+                    <ul>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroFaq">KoroFaq</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroExtension">KoroExtension</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroStoreLocator">KoroStoreLocator</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroThemeStorefront">KoroThemeStorefront</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroActiveCampaignSync">KoroActiveCampaignSync</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroFood">KoroFood</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroCmsExtension">KoroCmsExtension</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroCafe">KoroCafe</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroDocuments">KoroDocuments</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroTeamPage">KoroTeamPage</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroReviews">KoroReviews</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroReclamation">KoroReclamation</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroDoofinderSync">KoroDoofinderSync</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroProductStatistics">KoroProductStatistics</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroComparsionSlider">KoroComparsionSlider</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroCategoryOverview">KoroCategoryOverview</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroFooterLogo">KoroFooterLogo</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroBlog">KoroBlog</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroHoverImage">KoroHoverImage</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroTranslations">KoroTranslations</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroStoreChanger">KoroStoreChanger</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroProductOrigin">KoroProductOrigin</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroMaintenance">KoroMaintenance</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroInstagramStories">KoroInstagramStories</a>
+                        </li>
+                    </ul>
+                </p>
+            </td>
+            <td valign="top" width="50%">
+                <h3>Internal tools / Toolbox ✨</h3>
+                <p>
+                    <ul>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoRo_Toolbox_Backend">KoRo_Toolbox_Backend</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoRo_Cafe_App">KoRo_Cafe_App</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoRo_Helper_Frontend">KoRo_Helper_Frontend</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoRo_Helper_Backend">KoRo_Helper_Backend</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/freshdesk-app">freshdesk-app</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/Pixiinterface">Pixiinterface</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/update-koro-plugin">update-koro-plugin</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/rsync-deployment">rsync-deployment</a>
+                        </li>
+                    </ul>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
