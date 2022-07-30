@@ -6,6 +6,7 @@
 
 <div align="center">
 <img alt="Shopware 6" src="https://img.shields.io/badge/-Shopware_6-189eff?style=flat-square&logo=Shopware&logoColor=white" />
+<img alt="Vue.js" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=Vue.js&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
