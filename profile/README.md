@@ -18,10 +18,12 @@
 <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" />
 </div>
 
+<br>
 <table width="100%">
     <tbody>
         <tr>
             <td valign="top" width="50%">
+                <img width="441" height="1">
                 <h3>Shopware 6 Plugins 🚀</h3>
                 <p>
                     <ul>
@@ -101,6 +103,7 @@
                 </p>
             </td>
             <td valign="top" width="50%">
+                <img width="441" height="1">
                 <h3>Internal tools / Toolbox ✨</h3>
                 <p>
                     <ul>
