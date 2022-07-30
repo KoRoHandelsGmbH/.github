@@ -13,5 +13,6 @@
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white" />
+<img alt="nginx" src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" />
 </div>
