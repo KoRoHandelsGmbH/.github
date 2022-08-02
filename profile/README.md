@@ -117,6 +117,9 @@
                             <a href="https://github.com/KoRoHandelsGmbH/KoRo_Helper_Frontend">KoRo_Helper_Frontend</a>
                         </li>
                         <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoRo_SW6_Helper_Frontend">KoRo_SW6_Helper_Frontend</a>
+                        </li>
+                        <li>
                             <a href="https://github.com/KoRoHandelsGmbH/KoRo_Helper_Backend">KoRo_Helper_Backend</a>
                         </li>
                         <li>
