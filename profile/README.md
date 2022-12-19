@@ -99,6 +99,9 @@
                         <li>
                             <a href="https://github.com/KoRoHandelsGmbH/KoroInstagramStories">KoroInstagramStories</a>
                         </li>
+                        <li>
+                            <a href="https://github.com/KoRoHandelsGmbH/KoroFreeProduct">KoroFreeProduct</a>
+                        </li>
                     </ul>
                 </p>
             </td>
